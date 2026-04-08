@@ -1,0 +1,96 @@
+C:\Users\kookje\Desktop\MyClubB\MyClubB\bin\x64\Debug\MyClubB.exe.config
+C:\Users\kookje\Desktop\MyClubB\MyClubB\bin\x64\Debug\MyClubB.exe
+C:\Users\kookje\Desktop\MyClubB\MyClubB\bin\x64\Debug\MyClubB.pdb
+C:\Users\kookje\Desktop\MyClubB\MyClubB\bin\x64\Debug\EntityFramework.dll
+C:\Users\kookje\Desktop\MyClubB\MyClubB\bin\x64\Debug\EntityFramework.SqlServer.dll
+C:\Users\kookje\Desktop\MyClubB\MyClubB\bin\x64\Debug\System.Data.SQLite.dll
+C:\Users\kookje\Desktop\MyClubB\MyClubB\bin\x64\Debug\System.Data.SQLite.EF6.dll
+C:\Users\kookje\Desktop\MyClubB\MyClubB\bin\x64\Debug\System.Data.SQLite.Linq.dll
+C:\Users\kookje\Desktop\MyClubB\MyClubB\bin\x64\Debug\EntityFramework.xml
+C:\Users\kookje\Desktop\MyClubB\MyClubB\bin\x64\Debug\EntityFramework.SqlServer.xml
+C:\Users\kookje\Desktop\MyClubB\MyClubB\bin\x64\Debug\System.Data.SQLite.xml
+C:\Users\kookje\Desktop\MyClubB\MyClubB\obj\x64\Debug\MyClubB.csproj.AssemblyReference.cache
+C:\Users\kookje\Desktop\MyClubB\MyClubB\obj\x64\Debug\MyClubB.Form1.resources
+C:\Users\kookje\Desktop\MyClubB\MyClubB\obj\x64\Debug\MyClubB.Properties.Resources.resources
+C:\Users\kookje\Desktop\MyClubB\MyClubB\obj\x64\Debug\MyClubB.csproj.GenerateResource.cache
+C:\Users\kookje\Desktop\MyClubB\MyClubB\obj\x64\Debug\MyClubB.csproj.CoreCompileInputs.cache
+C:\Users\kookje\Desktop\MyClubB\MyClubB\obj\x64\Debug\MyClubB.csproj.Up2Date
+C:\Users\kookje\Desktop\MyClubB\MyClubB\obj\x64\Debug\MyClubB.exe
+C:\Users\kookje\Desktop\MyClubB\MyClubB\obj\x64\Debug\MyClubB.pdb
+E:\국.VR 프로그래밍\Code\MyClubB\MyClubB\bin\x64\Debug\MyClubB.exe.config
+E:\국.VR 프로그래밍\Code\MyClubB\MyClubB\bin\x64\Debug\MyClubB.exe
+E:\국.VR 프로그래밍\Code\MyClubB\MyClubB\bin\x64\Debug\MyClubB.pdb
+E:\국.VR 프로그래밍\Code\MyClubB\MyClubB\bin\x64\Debug\EntityFramework.dll
+E:\국.VR 프로그래밍\Code\MyClubB\MyClubB\bin\x64\Debug\EntityFramework.SqlServer.dll
+E:\국.VR 프로그래밍\Code\MyClubB\MyClubB\bin\x64\Debug\System.Data.SQLite.dll
+E:\국.VR 프로그래밍\Code\MyClubB\MyClubB\bin\x64\Debug\System.Data.SQLite.EF6.dll
+E:\국.VR 프로그래밍\Code\MyClubB\MyClubB\bin\x64\Debug\System.Data.SQLite.Linq.dll
+E:\국.VR 프로그래밍\Code\MyClubB\MyClubB\bin\x64\Debug\EntityFramework.xml
+E:\국.VR 프로그래밍\Code\MyClubB\MyClubB\bin\x64\Debug\EntityFramework.SqlServer.xml
+E:\국.VR 프로그래밍\Code\MyClubB\MyClubB\bin\x64\Debug\System.Data.SQLite.xml
+E:\국.VR 프로그래밍\Code\MyClubB\MyClubB\obj\x64\Debug\MyClubB.csproj.AssemblyReference.cache
+E:\국.VR 프로그래밍\Code\MyClubB\MyClubB\obj\x64\Debug\MyClubB.Form1.resources
+E:\국.VR 프로그래밍\Code\MyClubB\MyClubB\obj\x64\Debug\MyClubB.LoginForm.resources
+E:\국.VR 프로그래밍\Code\MyClubB\MyClubB\obj\x64\Debug\MyClubB.Properties.Resources.resources
+E:\국.VR 프로그래밍\Code\MyClubB\MyClubB\obj\x64\Debug\MyClubB.csproj.GenerateResource.cache
+E:\국.VR 프로그래밍\Code\MyClubB\MyClubB\obj\x64\Debug\MyClubB.csproj.CoreCompileInputs.cache
+E:\국.VR 프로그래밍\Code\MyClubB\MyClubB\obj\x64\Debug\MyClubB.csproj.Up2Date
+E:\국.VR 프로그래밍\Code\MyClubB\MyClubB\obj\x64\Debug\MyClubB.exe
+E:\국.VR 프로그래밍\Code\MyClubB\MyClubB\obj\x64\Debug\MyClubB.pdb
+E:\국.VR 프로그래밍\Code\MyClubB\MyClubB\obj\x64\Debug\MyClubB.JoinForm.resources
+C:\2020106010\MyClubB\MyClubB\MyClubB\bin\x64\Debug\MyClubB.exe.config
+C:\2020106010\MyClubB\MyClubB\MyClubB\bin\x64\Debug\MyClubB.exe
+C:\2020106010\MyClubB\MyClubB\MyClubB\bin\x64\Debug\MyClubB.pdb
+C:\2020106010\MyClubB\MyClubB\MyClubB\bin\x64\Debug\EntityFramework.dll
+C:\2020106010\MyClubB\MyClubB\MyClubB\bin\x64\Debug\EntityFramework.SqlServer.dll
+C:\2020106010\MyClubB\MyClubB\MyClubB\bin\x64\Debug\System.Data.SQLite.dll
+C:\2020106010\MyClubB\MyClubB\MyClubB\bin\x64\Debug\System.Data.SQLite.EF6.dll
+C:\2020106010\MyClubB\MyClubB\MyClubB\bin\x64\Debug\System.Data.SQLite.Linq.dll
+C:\2020106010\MyClubB\MyClubB\MyClubB\bin\x64\Debug\EntityFramework.xml
+C:\2020106010\MyClubB\MyClubB\MyClubB\bin\x64\Debug\EntityFramework.SqlServer.xml
+C:\2020106010\MyClubB\MyClubB\MyClubB\bin\x64\Debug\System.Data.SQLite.xml
+C:\2020106010\MyClubB\MyClubB\MyClubB\obj\x64\Debug\MyClubB.csproj.AssemblyReference.cache
+C:\2020106010\MyClubB\MyClubB\MyClubB\obj\x64\Debug\MyClubB.Form1.resources
+C:\2020106010\MyClubB\MyClubB\MyClubB\obj\x64\Debug\MyClubB.JoinForm.resources
+C:\2020106010\MyClubB\MyClubB\MyClubB\obj\x64\Debug\MyClubB.LoginForm.resources
+C:\2020106010\MyClubB\MyClubB\MyClubB\obj\x64\Debug\MyClubB.Properties.Resources.resources
+C:\2020106010\MyClubB\MyClubB\MyClubB\obj\x64\Debug\MyClubB.csproj.GenerateResource.cache
+C:\2020106010\MyClubB\MyClubB\MyClubB\obj\x64\Debug\MyClubB.csproj.CoreCompileInputs.cache
+C:\2020106010\MyClubB\MyClubB\MyClubB\obj\x64\Debug\MyClubB.csproj.Up2Date
+C:\2020106010\MyClubB\MyClubB\MyClubB\obj\x64\Debug\MyClubB.exe
+C:\2020106010\MyClubB\MyClubB\MyClubB\obj\x64\Debug\MyClubB.pdb
+C:\2020106010\MyClubB\MyClubB\MyClubB\obj\x64\Debug\MyClubB.MyClub.resources
+C:\2020106010\MyClubB\MyClubB\MyClubB\obj\x64\Debug\MyClubB.DataPortal.ucBusArrivalInfo.resources
+C:\2020106010\MyClubB\MyClubB\MyClubB\bin\x64\Debug\Newtonsoft.Json.dll
+C:\2020106010\MyClubB\MyClubB\MyClubB\bin\x64\Debug\Newtonsoft.Json.xml
+C:\2020106010\MyClubB\MyClubB\MyClubB\obj\x64\Debug\MyClubB.DataPortal.ucStationIdItem.resources
+C:\2020106010\MyClubB\MyClubB\MyClubB\obj\x64\Debug\MyClubB.DataPortal.ucBusArrivalItem.resources
+C:\2020106010\MyClubB\MyClubB\MyClubB\obj\x64\Debug\MyClub.MyChat.ucMyChat.resources
+C:\2020106010\MyClubB\MyClubB\MyClubB\MyClubB\obj\x64\Debug\MyClubB.csproj.AssemblyReference.cache
+C:\2020106010\MyClubB\MyClubB\MyClubB\MyClubB\obj\x64\Debug\MyClubB.DataPortal.ucBusArrivalInfo.resources
+C:\2020106010\MyClubB\MyClubB\MyClubB\MyClubB\obj\x64\Debug\MyClubB.DataPortal.ucBusArrivalItem.resources
+C:\2020106010\MyClubB\MyClubB\MyClubB\MyClubB\obj\x64\Debug\MyClubB.DataPortal.ucStationIdItem.resources
+C:\2020106010\MyClubB\MyClubB\MyClubB\MyClubB\obj\x64\Debug\MyClubB.Form1.resources
+C:\2020106010\MyClubB\MyClubB\MyClubB\MyClubB\obj\x64\Debug\MyClubB.JoinForm.resources
+C:\2020106010\MyClubB\MyClubB\MyClubB\MyClubB\obj\x64\Debug\MyClubB.LoginForm.resources
+C:\2020106010\MyClubB\MyClubB\MyClubB\MyClubB\obj\x64\Debug\MyClub.MyChat.ucMyChat.resources
+C:\2020106010\MyClubB\MyClubB\MyClubB\MyClubB\obj\x64\Debug\MyClubB.MyClub.resources
+C:\2020106010\MyClubB\MyClubB\MyClubB\MyClubB\obj\x64\Debug\MyClubB.Properties.Resources.resources
+C:\2020106010\MyClubB\MyClubB\MyClubB\MyClubB\obj\x64\Debug\MyClubB.csproj.GenerateResource.cache
+C:\2020106010\MyClubB\MyClubB\MyClubB\MyClubB\obj\x64\Debug\MyClubB.csproj.CoreCompileInputs.cache
+C:\2020106010\MyClubB\MyClubB\MyClubB\MyClubB\obj\x64\Debug\MyClubB.exe
+C:\2020106010\MyClubB\MyClubB\MyClubB\MyClubB\obj\x64\Debug\MyClubB.pdb
+C:\2020106010\MyClubB\MyClubB\MyClubB\MyClubB\bin\x64\Debug\MyClubB.exe.config
+C:\2020106010\MyClubB\MyClubB\MyClubB\MyClubB\bin\x64\Debug\MyClubB.exe
+C:\2020106010\MyClubB\MyClubB\MyClubB\MyClubB\bin\x64\Debug\MyClubB.pdb
+C:\2020106010\MyClubB\MyClubB\MyClubB\MyClubB\bin\x64\Debug\EntityFramework.dll
+C:\2020106010\MyClubB\MyClubB\MyClubB\MyClubB\bin\x64\Debug\EntityFramework.SqlServer.dll
+C:\2020106010\MyClubB\MyClubB\MyClubB\MyClubB\bin\x64\Debug\Newtonsoft.Json.dll
+C:\2020106010\MyClubB\MyClubB\MyClubB\MyClubB\bin\x64\Debug\System.Data.SQLite.dll
+C:\2020106010\MyClubB\MyClubB\MyClubB\MyClubB\bin\x64\Debug\System.Data.SQLite.EF6.dll
+C:\2020106010\MyClubB\MyClubB\MyClubB\MyClubB\bin\x64\Debug\System.Data.SQLite.Linq.dll
+C:\2020106010\MyClubB\MyClubB\MyClubB\MyClubB\bin\x64\Debug\EntityFramework.xml
+C:\2020106010\MyClubB\MyClubB\MyClubB\MyClubB\bin\x64\Debug\EntityFramework.SqlServer.xml
+C:\2020106010\MyClubB\MyClubB\MyClubB\MyClubB\bin\x64\Debug\Newtonsoft.Json.xml
+C:\2020106010\MyClubB\MyClubB\MyClubB\MyClubB\bin\x64\Debug\System.Data.SQLite.xml
+C:\2020106010\MyClubB\MyClubB\MyClubB\MyClubB\obj\x64\Debug\MyClubB.csproj.Up2Date
